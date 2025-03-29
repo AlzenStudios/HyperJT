@@ -1,7 +1,7 @@
 # HyperJT Language 🚀  
 **HyperJT Language** is an advanced JSON-based library that introduces a powerful **regular expression pattern matching system**, designed for **real-time** applications such as video games, authentication systems, dynamic fetching, and more.  
 
-![image](https://github.com/user-attachments/assets/b424dd1f-fb7e-4b8c-9daf-b5e3c426fd79)
+![image](https://github.com/user-attachments/assets/b7b44b1f-ffe2-4dcf-a821-ac731cf00ab6)
 
 ## ✨ Features  
 - 📌 **Advanced Pattern Matching** → Use regular expressions in JSON keys and values for dynamic searches and transformations.  
