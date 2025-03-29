@@ -1,5 +1,3 @@
-Ecco una descrizione per la repository GitHub di **HyperJT Language**:  
-
 ---
 
 # HyperJT Language 🚀  
