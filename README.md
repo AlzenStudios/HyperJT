@@ -1,17 +1,15 @@
----
-
 # HyperJT Language 🚀  
 
-**HyperJT Language** è una libreria avanzata basata su JSON che introduce un potente sistema di **pattern matching con espressioni regolari**, progettata per applicazioni **real-time** come videogiochi, sistemi di autenticazione, fetch dinamico e molto altro.  
+**HyperJT Language** is an advanced JSON-based library that introduces a powerful **regular expression pattern matching system**, designed for **real-time** applications such as video games, authentication systems, dynamic fetching, and more.  
 
-## ✨ Caratteristiche  
-- 📌 **Pattern Matching Avanzato** → Utilizza espressioni regolari nelle chiavi e nei valori JSON per ricerche dinamiche e trasformazioni.  
-- ⚡ **Ottimizzato per il Tempo Reale** → Perfetto per videogiochi, pagine di login, registrazione e altre funzionalità live.  
-- 🔄 **Parsing e Validazione Dinamica** → Definisci schemi JSON flessibili e convalidali al volo.  
-- 🔍 **Querying Potente** → Supporto per percorsi avanzati simili a XPath per JSON.  
-- 🌍 **Compatibile con Web & Networking** → Ideale per fetch dinamici, WebSockets e REST API.  
+## ✨ Features  
+- 📌 **Advanced Pattern Matching** → Use regular expressions in JSON keys and values for dynamic searches and transformations.  
+- ⚡ **Optimized for Real-Time** → Perfect for video games, login pages, registration, and other live functionalities.  
+- 🔄 **Dynamic Parsing and Validation** → Define flexible JSON schemas and validate them on the fly.  
+- 🔍 **Powerful Querying** → Supports advanced path expressions similar to XPath for JSON.  
+- 🌍 **Web & Networking Compatible** → Ideal for dynamic fetching, WebSockets, and REST APIs.  
 
-## 📜 Esempio di Utilizzo  
+## 📜 Usage Example  
 ```json
 {
   "{user_.*}": {
@@ -20,26 +18,26 @@
   }
 }
 ```
-➡️ Questo schema permette di validare dinamicamente utenti con ID numerici e email formattate correttamente!  
+➡️ This schema dynamically validates users with numeric IDs and properly formatted emails!  
 
-## 🛠️ Tecnologie  
-- C++ (basato su nlohmann/json o parser custom)  
-- Regex avanzate per pattern matching  
-- Supporto multi-piattaforma  
+## 🛠️ Technologies  
+- C++ (based on nlohmann/json or custom parser)  
+- Advanced regex for pattern matching  
+- Cross-platform support  
 
-## 📦 Installazione  
+## 📦 Installation  
 ```sh
-git clone https://github.com/TUO-USERNAME/HyperJT-Language.git
-cd HyperJT-Language
+git clone https://github.com/AlzenStudios/HyperJT.git
+cd HyperJT
 mkdir build && cd build
 cmake ..
 make
 ```
 
-## 📢 Contribuisci  
-Se vuoi migliorare **HyperJT Language**, sentiti libero di aprire issue o pull request! 🚀  
+## 📢 Contribute  
+If you want to improve **HyperJT Language**, feel free to open issues or pull requests! 🚀  
 
-🔗 **Repo:** https://github.com/AlzenStudios/HyperJT
-📖 **Docs:** In arrivo...  
+🔗 **Repo:** [https://github.com/AlzenStudios/HyperJT](https://github.com/AlzenStudios/HyperJT)  
+📖 **Docs:** Coming soon...  
 
 ---
